@@ -1,0 +1,8 @@
+/* .custom-blue {
+    background-color:
+        red  
+} */
+
+.brightness {
+    filter: brightness(50%);
+}
